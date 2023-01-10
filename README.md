@@ -1,2 +1,2 @@
 # czhTest
-tutorial
+cmkae openGL
